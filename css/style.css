@@ -98,7 +98,7 @@ blockquote {
     display:table;
     border:2px dashed #ccc;
     border-left:5px solid #4188F1;
-    background-image: url('/views/newliberty/img/quote.png');
+    background-image: url('/views/liberty/img/quote.png');
     background-position:calc(100% - 10px) 10px;
     background-repeat:no-repeat;
     background-size:25px;

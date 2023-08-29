@@ -15,4 +15,3 @@ jQuery('.btn-group').on('hide.bs.dropdown', function(e) {
     jQuery(this).find('.dropdown-menu').first().stop(true, true).fadeToggle(200);
 });
 /* 드롭다운 페이드인 End */
-
